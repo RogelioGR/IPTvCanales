@@ -63,3 +63,5 @@ https://streamer1.nexgen.bz/HISTORY/tracks-a2/mono.ts.m3u8
 https://14c51.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=187.150.39.194&token=afb05e4b514381f40150310f1d458b13868c79a7-d3-1761935637-1761881637
 #EXTINF:-1 tvg-id="foxsportsmx" tvg-name="foxsportsmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png",foxsportsmx
 https://tyg2mnl9.fubohd.com/foxsportsmx/mono.m3u8?token=e9435c62d598dd5e7fb2074bf6be9de785c207bc-39-1761911963-1761893963
+#EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
