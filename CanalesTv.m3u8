@@ -63,3 +63,5 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.ts.m3u8
 https://14c51.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=187.150.39.194&token=afb05e4b514381f40150310f1d458b13868c79a7-d3-1761935637-1761881637
 #EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg",Love Nature en Espanol 
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
