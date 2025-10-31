@@ -49,11 +49,17 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 http://38.183.182.166:8000/play/a0vd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg",Disney Channel Latin America 
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13C 
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="24Horas.es@SD" tvg-logo="https://i.imgur.com/IUVRm5L.png",24 Horas 
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="historyP" tvg-logo="https://i.imgur.com/snIU1UA.jpg",historyP
-https://goo.su/2WsL2d
+#EXTINF:-1 tvg-id="Canal Once" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1098304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png",CNN Xpress
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="History-Channel" tvg-name="History-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg",History-Channel
+https://streamer1.nexgen.bz/HISTORY/tracks-a2/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg",ESPN2
+https://14c51.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=187.150.39.194&token=afb05e4b514381f40150310f1d458b13868c79a7-d3-1761935637-1761881637
+#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="foxsportsmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png",foxsportsmx
+https://tyg2mnl9.fubohd.com/foxsportsmx/mono.m3u8?token=e9435c62d598dd5e7fb2074bf6be9de785c207bc-39-1761911963-1761893963
