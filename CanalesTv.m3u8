@@ -57,13 +57,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1098304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png",CNN Xpress
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="History-Channel" tvg-name="History-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg",History-Channel
+#EXTINF:-1 tvg-id="History-Channel" tvg-name="History-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History-Channel
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg",Love Nature en Espanol 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/1080p-spa/index.m3u8
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/World_Discovery_HD_logo.svg",Discovery World
-https://live.saohgdasregions.fun:9092/MTg3LjE1MC42NS4yNTQ=/38_.m3u8?token=_H5SbgQXZRRInO_MK36S7Q&expires=1762043526
-#EXTINF:-1 tvg-id="Discovery Home & Health "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg",Discovery Home & Health 
-chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live.saohgdasregions.fun:9092/MTg3LjE1MC42NS4yNTQ=/42_.m3u8?token=3nu0ifADDHnB_UglUSC2TQ&expires=1762045007
