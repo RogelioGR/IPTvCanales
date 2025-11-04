@@ -63,3 +63,11 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.ts.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg",Love Nature en Espanol 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/1080p-spa/index.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="",Studio Universal 
+https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic Latin America South
+https://streamer1.nexgen.bz/NAT_GEO/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HYH"tvg-logo="https://www.tvporinternet2.com/imge/discoveryhyh.png", DISCOVERY HYH
+https://live.saohgdasregions.fun:9092/MTg3LjE1MC42NS4yNTQ=/42_.m3u8?token=0T2LQdCNq19nCjCypvdvjw&expires=1762306030
+#EXTINF:-1 tvg-id="DISCOVERY HYH"tvg-logo="https://www.tvporinternet2.com/imge/discoveryhyh.png", DISCOVERY HYH
+https://live.saohgdasregions.fun/tvporinternet3.php?stream=42_
