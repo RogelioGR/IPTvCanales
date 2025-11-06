@@ -17,6 +17,9 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",Canal 5 
 http://104.238.205.28:8989/278329_.m3u8
 
+#EXTINF:-1 tvg-id="Canal 10 Cancun" tvg-name="Canal 10 Cancun" tvg-logo="",Canal 10 Cancun
+https://stream2.canal10mx.com/live/movil/chunklist_w2063538531.m3u8
+
 #EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg",Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 
@@ -40,6 +43,9 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
 
 #EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Imagen Television" tvg-name="Imagen Television" tvg-logo="",Imagen Television
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="3ABN",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
@@ -111,4 +117,10 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=B116CD89-27DF-489D-B281-767172CC7985&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=B116CD89-27DF-489D-B281-767172CC7985&ads.n4=content_name&ads.v4=CNN%20Xpress&ads.n21=content_type&ads.v21=channel&ads.n22=app_version&ads.v22=0.0.0&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=ip&ads.v24=193.228.206.147&ads.n25=dnt&ads.v25=&ads.n26=ifa_type&ads.v26=&ads.n27=channel_rating&ads.v27=TV-MA&ads.n28=url&ads.v28=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n29=device_type&ads.v29=&ads.n30=channel_title&ads.v30=CNN%20Xpress&ads.n31=cust_devicename&ads.v31=desktop_web&ads.n32=channel_company_id&ads.v32=AMDP500559&ads.n33=ua&ads.v33=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n34=h&ads.v34=1080&ads.n35=channel_language&ads.v35=en&ads.n36=app_bundle&ads.v36=&ads.n37=w&ads.v37=1920&ads.n38=channel_corp&ads.v38=Warner%20Brothers%20Discovery&ads.n39=did&ads.v39=&ads.n40=content_provider&ads.v40=cnn-xpress&ads.n41=gpp_sid&ads.v41=&ads.n42=us_privacy&ads.v42=1YNY&ads.n43=app_store_url&ads.v43=&ads.n44=app_name&ads.v44=&ads.n45=channel_brand_id&ads.v45=AMDB013572&ads.n46=content_custom_1_param&ads.v46=B116CD89-27DF-489D-B281-767172CC7985&ads.n47=content_custom_2_param&ads.v47=AMDB013572&ads.n48=device_model&ads.v48=&ads.n49=channel_id&ads.v49=B116CD89-27DF-489D-B281-767172CC7985&ads.n50=channel_genre&ads.v50=En%20Espanol&ads.n51=content_livestream&ads.v51=1&ads.n52=pos&ads.v52=midroll&ads.n53=channel_name&ads.v53=CNN%20Xpress&ads.n54=gpp&ads.v54=&ads.n55=content_producer_name&ads.v55=Warner%20Brothers%20Discovery&ads.n56=channel_ext_id&ads.v56=&ads.n57=device_make&ads.v57=&ads.n58=network_name&ads.v58=cnn-xpress
 
 #EXTINF:-1 tvg-id="Vevo Pop" tvg-name="Vevo Pop" tvg-logo="",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="M2O TV" tvg-name="M2O TV" tvg-logo="",M2O TV
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3425861.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports Xtra" tvg-name="beIN Sports Xtra" tvg-logo="",beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
