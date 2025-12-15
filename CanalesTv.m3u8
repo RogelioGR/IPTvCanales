@@ -14,9 +14,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",Canal 5 
-http://104.238.205.28:8989/278329_.m3u8
-
 #EXTINF:-1 tvg-id="Canal 10 Cancun" tvg-name="Canal 10 Cancun" tvg-logo="",Canal 10 Cancun
 https://stream2.canal10mx.com/live/movil/chunklist_w2063538531.m3u8
 
@@ -50,17 +47,12 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeVision.es" tvg-name="Anime Vision" tvg-logo="https://images.icon-icons.com/1736/PNG/512/4043233-anime-away-face-no-nobody-spirited_113254.png",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png",Disney XD
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg",Disney Channel Latin America 
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="Cops en Español" tvg-name="Cops en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg",Cops en Español
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8" tvg-name="TuDiscovery" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2B411E4B-58F1-47FD-84A5-C8CDB543A9D8/3-1x1.png",TuDiscovery
-https://s9host5.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config12/6eeed7c8-80b0-4f66-8d20-4da7334a013c/3.m3u8
 
 #EXTINF:-1 tvg-id="LN_6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B" tvg-name="Crimen" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B/3-1x1.png",Crimen
 https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n4=content_name&ads.v4=Crimen&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=app_bundle&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=channel_brand_id&ads.v25=AMDB013587&ads.n26=gpp_sid&ads.v26=&ads.n27=channel_name&ads.v27=Crimen&ads.n28=app_store_url&ads.v28=&ads.n29=gpp&ads.v29=&ads.n30=device_type&ads.v30=&ads.n31=content_provider&ads.v31=crimen-de-wbtv-crimen&ads.n32=channel_corp&ads.v32=Warner%20Brothers%20Discovery&ads.n33=channel_rating&ads.v33=TV-PG&ads.n34=app_name&ads.v34=&ads.n35=content_custom_3_param&ads.v35=channel&ads.n36=content_livestream&ads.v36=1&ads.n37=channel_genre&ads.v37=En%20Espanol&ads.n38=w&ads.v38=1920&ads.n39=pos&ads.v39=midroll&ads.n40=cust_devicename&ads.v40=desktop_web&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=content_custom_1_param&ads.v42=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n43=device_make&ads.v43=&ads.n44=app_version&ads.v44=0.0.0&ads.n45=ip&ads.v45=193.228.206.147&ads.n46=channel_language&ads.v46=en&ads.n47=content_custom_2_param&ads.v47=AMDB013587&ads.n48=channel_title&ads.v48=Crimen&ads.n49=did&ads.v49=&ads.n50=content_producer_name&ads.v50=Warner%20Brothers%20Discovery&ads.n51=channel_id&ads.v51=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n52=network_name&ads.v52=crimen-de-wbtv-crimen&ads.n53=ifa_type&ads.v53=&ads.n54=dnt&ads.v54=&ads.n55=channel_ext_id&ads.v55=&ads.n56=device_model&ads.v56=&ads.n57=channel_company_id&ads.v57=AMDP500559&ads.n58=h&ads.v58=1080
@@ -75,13 +67,16 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic Latin America South
-http://38.183.182.166:8000/play/a0vd/index.m3u8
+https://streamer1.nexgen.bz/NAT_GEO/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="History-Channel" tvg-name="History-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History-Channel
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="History2-Channel" tvg-name="History2-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History2-Channel
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="",Animal Planet
+http://181.78.106.127:9000/play/ca056/13590130.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg",Love Nature en Espanol 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/1080p-spa/index.m3u8
