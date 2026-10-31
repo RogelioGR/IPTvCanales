@@ -1,140 +1,119 @@
-#EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="3ABN", 3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Run Time Comedia" tvg-name="Run Time Comedia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online-1068x601.png", Run Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WTV Canal 20" tvg-name="WTV Canal 20" tvg-logo="",  WTV Canal 20
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-
-#EXTINF:-1tvg-id="Telemax" tvg-name="Telemax" tvg-logo="", Telemax
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg", Love Nature en Espanol
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png", Red+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
-#EXTINF:-1 tvg-id="CNN XpressMX" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVE 24H" tvg-name="TVE 24H" tvg-logo="", TVE 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Dios Te Ve" tvg-name="Dios Te Ve" tvg-logo="", Dios Te Ve
-https://s.emisoras.tv:8081/diostevetv/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports Xtra" tvg-name="beIN Sports Xtra" tvg-logo="", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-logo="", K POP by CJ ENM
-https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1, tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="", Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1, tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="", Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg", Love Nature en Espanol
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cops en Español" tvg-name="Cops en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg", Cops en Español
-https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cops en Español" tvg-name="Cops en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg", Cops en Español
-https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="3ABN", 3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WTV Canal 20" tvg-name="WTV Canal 20" tvg-logo="",  WTV Canal 20
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vevo Pop" tvg-name="Vevo Pop" tvg-logo="", Vevo Pop
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports Xtra" tvg-name="beIN Sports Xtra" tvg-logo="", beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1, beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="Vevo Schlager Pop" tvg-name="Vevo Schlager Pop" tvg-logo="", Vevo Schlager Pop
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1, tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="", Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1, tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="", Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="CNN Xpress" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Dios Te Ve" tvg-name="Dios Te Ve" tvg-logo="", Dios Te Ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
 
 #EXTINF:-1, Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Noticias" tvg-name="Telemundo Noticias" tvg-logo="", Telemundo Noticias
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1, Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1, K POP by CJ ENM
-https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1, Telemundo Noticias
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1, TVE 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="SIPSE TV 8.1 Cancun" tvg-name="SIPSE TV 8.1 Cancun" tvg-logo="", SIPSE TV 8.1 Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="WTV Canal 20" tvg-name="WTV Canal 20" tvg-logo="",  WTV Canal 20
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
-#EXTINF:-1tvg-id="Telemax" tvg-name="Telemax" tvg-logo="", Telemax
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1, Vevo Pop
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="Run Time Comedia" tvg-name="Run Time Comedia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online-1068x601.png", Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 
 #EXTINF:-1, Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 
-#EXTINF:-1, Milenio Televisión
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="3ABN", 3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Las estrellas" tvg-name="Las estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg", Las estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1, K POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1, Vevo Schlager Pop
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-logo="", K POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1, Las estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="3ABN", 3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTV Canal 20" tvg-name="WTV Canal 20" tvg-logo="",  WTV Canal 20
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+
+#EXTINF:-1tvg-id="Telemax" tvg-name="Telemax" tvg-logo="", Telemax
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1tvg-id="Telemax" tvg-name="Telemax" tvg-logo="", Telemax
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="CNN XpressMX" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="CNN Xpress" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1, Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
+#EXTINF:-1 tvg-id="TVE 24H" tvg-name="TVE 24H" tvg-logo="", TVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SIPSE TV 8.1 Cancun" tvg-name="SIPSE TV 8.1 Cancun" tvg-logo="", SIPSE TV 8.1 Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
 #EXTINF:-1, SIPSE TV 8.1 Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1, RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
+#EXTINF:-1, Telemundo Noticias
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Noticias" tvg-name="Telemundo Noticias" tvg-logo="", Telemundo Noticias
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png", Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1, tvg-id="A+" tvg-name="A+" tvg-logo="", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="Las estrellas" tvg-name="Las estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg", Las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1, Las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 10 Cancun" tvg-name="Canal 10 Cancun" tvg-logo="", Canal 10 Cancun
 https://customer-h65khedbubj3pmn7.cloudflarestream.com/8d79f1ca28780f21aff4639288ed20f4/manifest/video.m3u8
@@ -142,20 +121,35 @@ https://customer-h65khedbubj3pmn7.cloudflarestream.com/8d79f1ca28780f21aff463928
 #EXTINF:-1, Canal 10 Cancun
 https://customer-h65khedbubj3pmn7.cloudflarestream.com/8d79f1ca28780f21aff4639288ed20f4/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="Hyundai Home Shopping" tvg-name="Hyundai Home Shopping" tvg-logo="", Hyundai Home Shopping
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-
 #EXTINF:-1, tvg-id="A+" tvg-name="A+" tvg-logo="", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1, tvg-id="A+" tvg-name="A+" tvg-logo="", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
+
+#EXTINF:-1, RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-name="Vevo Pop" tvg-logo="", Vevo Pop
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1, Vevo Pop
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="Vevo Schlager Pop" tvg-name="Vevo Schlager Pop" tvg-logo="", Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1, Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1, Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBS Korea Agricultural" tvg-name="NBS Korea Agricultural" tvg-logo="", NBS Korea Agricultural
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Hyundai Home Shopping" tvg-name="Hyundai Home Shopping" tvg-logo="", Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
 #EXTINF:-1, NBS Korea Agricultural
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBS Korea Agricultural" tvg-name="NBS Korea Agricultural" tvg-logo="", NBS Korea Agricultural
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
