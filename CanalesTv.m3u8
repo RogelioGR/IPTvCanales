@@ -1,95 +1,95 @@
-#EXTINF:-1 tvg-id="DW Español" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).mx" tvg-name="DW Latinoamérica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="Run Time Comedia" tvg-name="Run Time Comedia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online-1068x601.png", Run Time Comedia
+#EXTINF:-1 tvg-id="Runtime.Comedia.mx" tvg-name="Runtime Comedia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online-1068x601.png", Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 
-#EXTINF:-1 tvg-id="WTV Canal 20" tvg-name="WTV Canal 20" tvg-logo="https://www.wtvnicaragua.com/", WTV Canal 20
+#EXTINF:-1 tvg-id="" tvg-name="WTV Canal 20" tvg-logo="https://www.wtvnicaragua.com/", WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
-#EXTINF:-1tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png", Telemax
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png", Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg", Love Nature en Espanol
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg", Love Nature en Español
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Red" tvg-logo="https://i.imgur.com/kuqkTMC.png", Red+
+#EXTINF:-1 tvg-id="" tvg-name="Red+" tvg-logo="https://i.imgur.com/kuqkTMC.png", Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 
-#EXTINF:-1 tvg-id="CNN XpressMX" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
+#EXTINF:-1 tvg-id="" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
+#EXTINF:-1 tvg-id="Canal.Mexiquense.TV.mx" tvg-name="Mexiquense TV" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVE 24H" tvg-name="TVE 24H" tvg-logo="", TVE 24H
+#EXTINF:-1 tvg-id="TVE.24h" tvg-name="TVE 24 Horas" tvg-logo="", TVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="beIN Sports Xtra" tvg-name="beIN Sports Xtra" tvg-logo="", beIN Sports Xtra
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Español" tvg-logo="", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="RT Español"tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
+#EXTINF:-1 tvg-id="RT.en.Espanol" tvg-name="RT en Español" tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-logo="", K POP by CJ ENM
+#EXTINF:-1 tvg-id="" tvg-name="K POP by CJ ENM" tvg-logo="", K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", Azteca Internacional
+#EXTINF:-1 tvg-id="Azteca.Internacional.mx" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Cops en Español" tvg-name="Cops en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg", Cops en Español
+#EXTINF:-1 tvg-id="" tvg-name="Cops en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg", Cops en Español
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png", Milenio Televisión
+#EXTINF:-1 tvg-id="Canal.Milenio.TV.mx" tvg-name="Milenio TV" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="CNN Xpress" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
+#EXTINF:-1 tvg-id="" tvg-name="CNN Xpress" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B116CD89-27DF-489D-B281-767172CC7985/3-1x1.png", CNN Xpress
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Noticias" tvg-name="Telemundo Noticias" tvg-logo="", Telemundo Noticias
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-name="Telemundo Al Día" tvg-logo="", Telemundo Noticias
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1, K POP by CJ ENM
+#EXTINF:-1 tvg-id="" tvg-name="K POP by CJ ENM" tvg-logo="", K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/1080p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SIPSE TV 8.1 Cancun" tvg-name="SIPSE TV 8.1 Cancun" tvg-logo="", SIPSE TV 8.1 Cancun
+#EXTINF:-1 tvg-id="" tvg-name="SIPSE TV 8.1 Cancún" tvg-logo="", SIPSE TV 8.1 Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1 tvg-id="Las estrellas" tvg-name="Las estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg", Las estrellas
+#EXTINF:-1 tvg-id="Canal.de.las.Estrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Hyundai Home Shopping" tvg-name="Hyundai Home Shopping" tvg-logo="", Hyundai Home Shopping
+#EXTINF:-1 tvg-id="" tvg-name="Hyundai Home Shopping" tvg-logo="", Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBS Korea Agricultural" tvg-name="NBS Korea Agricultural" tvg-logo="", NBS Korea Agricultural
+#EXTINF:-1 tvg-id="" tvg-name="NBS Korea Agricultural" tvg-logo="", NBS Korea Agricultural
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Auto", Discovery Turbo 
+#EXTINF:-1 tvg-id="Discovery.Turbo" tvg-name="Discovery Turbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Auto", Discovery Turbo
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet Latin America (1080p)
+#EXTINF:-1 tvg-id="Animal.Planet.Latinoamerica.us@SD" tvg-name="Animal Planet Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet Latin America (1080p)
 http://190.128.214.97:64333/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="History2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary", History 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="History.2.Latinoamerica.mx" tvg-name="History 2 Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary", History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary", National Geographic (Mexico) (1080p)
+#EXTINF:-1 tvg-id="National.Geographic.Mexico.mx" tvg-name="National Geographic México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary", National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="AELatinAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment", A&E Latin America (1080p)
+#EXTINF:-1 tvg-id="A&E.Latinoamerica.mx" tvg-name="A&E Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment", A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation", Disney Channel Latin America Mexico (720p)
+#EXTINF:-1 tvg-id="Disney.Channel.Mexico.mx" tvg-name="Disney Channel México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation", Disney Channel Latin America Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment", Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family", HBO Family Latin America (1080p)
+#EXTINF:-1 tvg-id="HBO.Family.Latinoamerica.mx" tvg-name="HBO Family Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family", HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies", HBO 2 Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBO.2.Latinoamerica.mx" tvg-name="HBO 2 Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies", HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports", ESPN 4 (Brazil) (1080p)
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports", ESPN 4 (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
